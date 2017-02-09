@@ -1,0 +1,13 @@
+body {
+  background-color: lightgrey;
+}
+
+span.spoil-protect {
+  color: lightgrey;
+  background-color:lightgrey;
+}
+
+span.spoil-protect:hover{
+  color:black;
+  background-color: yellow;
+}
